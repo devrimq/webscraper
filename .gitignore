@@ -1,0 +1,23 @@
+# Derlenmiş Python dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tkinter geçici dosyaları (nadiren oluşur)
+*.log
+
+# Kendi klasörlerin
+data/
+assets/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Çevresel dosyalar
+.env
+*.env
+
+# Sistem dosyaları (Mac, Windows)
+.DS_Store
+Thumbs.db
